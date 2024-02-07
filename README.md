@@ -1,1 +1,1 @@
-# framework
+# Пример фреймворка pytest, selenium, allure.
